@@ -100,3 +100,114 @@
   font-size: 12px;
   color: #000c22;
 }
+
+.separator-wrapper {
+  display: flex;
+  align-items: center;
+  margin: 1.5rem 0; /* Equivalent to my-6 */
+}
+
+.separator-line {
+  flex-grow: 1;
+  border-top: 1px solid #ccc; /* Gray line */
+}
+
+.separator-text {
+  margin: 0 1rem;
+  font-size: 0.875rem; /* Equivalent to text-sm */
+  text-align: center;
+  white-space: nowrap;
+  color: #555; /* Replace with your .text-main-2 color */
+}
+
+.phone-input-wrapper {
+  display: flex;
+  align-items: center;
+  background-color: #f0f7ff; /* equivalent to bg-blue-50 */
+  border-radius: 6px;
+  gap: 0.5rem;
+}
+
+.country-code-selector {
+  display: flex;
+  align-items: center;
+  gap: 0.25rem;
+}
+
+.flag-icon {
+  width: 20px;
+  height: 14px;
+  border-radius: 2px;
+  margin: 10px;
+}
+
+.country-dropdown {
+  border: none;
+  background: transparent;
+  font-size: 14px;
+  outline: none;
+  appearance: none;
+  cursor: pointer;
+  padding: 5px;
+}
+
+.mobile-input {
+  flex: 1;
+  border: none;
+  background: #f0f7ff;
+  outline: none;
+  font-size: 14px;
+  color: #333;
+  border: none;
+  outline: none;
+}
+
+.otp-wrapper {
+  display: flex;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.otp-input {
+  width: 40px;
+  height: 48px;
+  font-size: 20px;
+  text-align: center;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  transition: border 0.2s ease;
+}
+
+.otp-input:focus {
+  border-color: #000;
+}
+
+.review_card {
+  display: flex;
+  gap: 20px;
+  border: 1px solid #000;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+
+.review_card h6 {
+  font-size: 22px;
+  font-weight: bold;
+}
+.review_card p {
+  font-size: 14px;
+  color: #666667;
+}
+
+.product_details_box {
+  padding: 20px;
+  border: 1px solid #bdc8cf;
+  border-radius: 20px;
+}
+
+.header-default {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}

@@ -4214,6 +4214,10 @@ header.header-bg {
   width: 100%;
 }
 
+.tab-product-desc .tab-link.active {
+  color: #000;
+}
+
 .tab-product-desc .tab-content {
   margin-top: 30px;
 }
@@ -6144,7 +6148,8 @@ button.animate-btn::after,
   margin-bottom: 10px;
 }
 
-.form-default fieldset input {
+.form-default fieldset input,
+select {
   border-radius: 45px;
   border-color: var(--line);
   color: var(--dark);
@@ -6591,7 +6596,6 @@ button.animate-btn::after,
   border-radius: 27px;
   padding: 8px 14px;
   min-width: 100px;
-  border: 1px solid var(--line);
   cursor: pointer;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
@@ -8394,7 +8398,7 @@ button.animate-btn::after,
 .popup-style-1 .popup-inner {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 0px;
   padding: 32px;
   overflow-y: auto;
 }
@@ -8402,7 +8406,7 @@ button.animate-btn::after,
 .form-login {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 0px;
 }
 
 .form-login .text {
@@ -8424,10 +8428,6 @@ button.animate-btn::after,
 
 .popup-login {
   width: 100%;
-}
-
-.popup-login .other-login p {
-  margin-bottom: 24px;
 }
 
 .popup-login .other-login a {
@@ -10660,7 +10660,6 @@ button.animate-btn::after,
 }
 
 .tf-product-info-wrap .tf-product-info-heading .product-info-rate {
-  margin-bottom: 10px;
   display: flex;
   align-items: center;
 }
@@ -10705,19 +10704,21 @@ button.animate-btn::after,
 }
 
 .tf-product-info-wrap .tf-product-info-heading .product-info-price .price-new {
-  color: var(--primary);
+  color: var(--dark);
+  font-size: 50px;
 }
 
 .tf-product-info-wrap .tf-product-info-heading .product-info-price .price-old {
-  color: var(--rgba-dark);
+  color: #bdc8cf;
   text-decoration: line-through;
+  font-size: 28px;
 }
 
 .tf-product-info-wrap .tf-product-info-heading .badge-sale {
   font-size: 14px;
   line-height: 20px;
   font-weight: 400;
-  background-color: var(--primary);
+  background-color: var(--red);
   border-radius: 22px;
   padding: 5px 10px;
   color: var(--white);
@@ -10892,9 +10893,8 @@ button.animate-btn::after,
 .tf-product-info-wrap .variant-size .size-btn:not(.select-item) {
   width: 48px;
   height: 48px;
-  border-radius: 50%;
   border: 1px solid var(--line);
-  font-size: 20px;
+  font-size: 18px;
   line-height: 30px;
   color: var(--dark);
   font-weight: 500;
@@ -10914,17 +10914,20 @@ button.animate-btn::after,
 }
 
 .tf-product-info-wrap .product-info-countdown {
-  padding: 20px;
-  display: inline-block;
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
   border: 1px solid var(--primary);
   border-radius: 8px;
+  margin-bottom: 10px;
 }
 
 .tf-product-info-wrap .product-info-countdown .countdown-title {
   display: flex;
   align-items: center;
   gap: 4px;
-  margin-bottom: 12px;
 }
 
 .tf-product-info-wrap .product-info-countdown .countdown__timer {
@@ -11044,7 +11047,7 @@ button.animate-btn::after,
   display: grid;
   gap: 10px;
   text-align: center;
-  padding: 0px 25px;
+  padding: 0px 26px;
 }
 
 .tf-product-info-wrap .tf-product-info-delivery-return .product-delivery .icon {
@@ -11107,7 +11110,6 @@ button.animate-btn::after,
   display: flex;
   justify-content: space-between;
   background-color: #f1f1f1;
-  border-radius: 43px;
   overflow: hidden;
 }
 
@@ -14647,7 +14649,6 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   cursor: pointer;
   gap: 5px;
   color: var(--dark);
-  border: solid 1px var(--line);
   border-radius: 27px;
   text-transform: capitalize;
   padding: 8px 14px;
@@ -15645,6 +15646,8 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   display: flex;
   gap: 12px;
   flex-direction: column;
+  border-bottom: 1px dotted #a6a1a1;
+  padding: 20px 0;
 }
 
 .tf-mini-cart-item {
@@ -20568,7 +20571,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
     margin-bottom: 42px;
   }
   .tf-product-info-wrap .tf-product-info-heading {
-    padding-bottom: 32px;
+    padding-bottom: 0px;
     margin-bottom: 32px;
   }
   .tf-product-info-wrap .tf-product-info-heading .product-info-sold {
@@ -20602,6 +20605,9 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   }
   .tab-product-desc .tab-link {
     min-width: 154px;
+    border: 1px solid #bdc8cf;
+    margin-left: 20px;
+    color: #666667;
   }
   .widget-facet:not(:last-child) {
     margin-bottom: 24px;
