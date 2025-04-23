@@ -211,3 +211,21 @@
 .header-default {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
+
+.tf-page-title {
+  padding: 52px 0px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-image: url(../images/banner/page-title.jpg);
+}
+
+.track-order {
+  /* border: 1px dotted #000; */
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}

@@ -2,7 +2,7 @@
 @import url(./bootstrap-select.min.css);
 @import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Jura:wght@300..700&display=swap");
 :root {
-  --primary: #ff6f61;
+  --primary: #e21b1b;
   --primary-2: #ff9a90;
   --primary-3: #ffc5c0;
   --primary-4: #fff1ef;
@@ -3629,49 +3629,6 @@ header.header-bg {
 
 /*------------ footer ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .footer-default {
@@ -3703,6 +3660,7 @@ header.header-bg {
 
 .footer-default .footer-bottom {
   border-top: 1px solid #ebebeb54;
+  border-bottom: 1px solid #ebebeb54;
 }
 
 .footer-default .footer-top {
@@ -4046,49 +4004,6 @@ header.header-bg {
 
 /*------------ tabs ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .flat-animate-tab .tab-content {
@@ -4409,49 +4324,6 @@ header.header-bg {
 }
 
 /*------------ slider banner ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -4913,49 +4785,6 @@ header.header-bg {
 }
 
 /*------------ button ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -5707,49 +5536,6 @@ button.animate-btn::after,
 
 /*------------ form ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .tf-check {
@@ -6252,49 +6038,6 @@ select {
 
 /*------------ drop down ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .image-select.style-default {
@@ -6785,49 +6528,6 @@ select {
 }
 
 /*------------ carousel ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -7338,49 +7038,6 @@ select {
 }
 
 /*------------ pop up ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -9194,49 +8851,6 @@ select {
 
 /*------------ box icon ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .box-icon {
@@ -9602,49 +9216,6 @@ select {
 
 /*------------ hover ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .hover-img .img-style {
@@ -9865,49 +9436,6 @@ select {
 }
 
 /*------------ collection ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -10465,49 +9993,6 @@ select {
 }
 
 /*------------ product ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -12676,49 +12161,6 @@ select {
 
 /*------------ blog ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .blog-item {
@@ -13081,49 +12523,6 @@ select {
 
 /*------------ testimonial ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .wg-testimonial {
@@ -13446,49 +12845,6 @@ select {
 }
 
 /*------------ lookbook ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -14049,49 +13405,6 @@ select {
 
 /*------------ brand ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .brand-item {
@@ -14170,49 +13483,6 @@ select {
 }
 
 /*------------ zoom ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -14300,49 +13570,6 @@ select {
 }
 
 /*------------ shop ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -15238,49 +14465,6 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 /*------------ shop ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -16745,55 +15929,14 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 
 /*------------ account ---------------- */
 
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
-
 /*--------- Abstracts variable ---------- */
 
 .main-content-account {
   max-width: 1244px;
   width: 100%;
   margin: 0 auto;
+  display: flex;
+  gap: 30px;
 }
 
 .my-account-container {
@@ -17068,49 +16211,6 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 /*------------ sections ---------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -18675,49 +17775,6 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
 }
 
 /*-------------- Responsive ----------------- */
-
-/* ---------------------------------------------------------
-    * Name: Vineta - Multipurpose eCommerce
-    * Version: 1.0.0
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
-
-	* Abstracts variable
-
-    * Reset css styles
-
-    * Components
-
-        * header
-        * footer
-        * tabs
-        * slider banner
-        * button
-        * form
-        * drop down
-        * carousel
-        * avatar
-        * pop up
-        * box icon
-        * hover
-        * collection
-        * product
-        * blog
-        * testimonial
-        * lookbook
-        * accordion
-        * brand
-        * zoom
-        * shop
-        * cart
-        * account
-
-    * section
-
-    * Responsive
-
-    * RTL
- ------------------------------------------------------------------------------ */
 
 /*--------- Abstracts variable ---------- */
 
@@ -23342,4 +22399,4 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   }
 }
 
-/*# sourceMappingURL=styles.css.map */
+
